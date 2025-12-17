@@ -1,6 +1,7 @@
 # Juke
 
 Welcome to **Juke**: a public Rocket League SDK designed to make it easy to load Rocket League bots created with the GigaLearn framework.
+
 <img width="353" height="354" alt="image" src="https://github.com/user-attachments/assets/8792c5f8-26a6-4a1c-b03d-7b1ddd91e1c5" />
 
 ---
